@@ -1,8 +1,12 @@
 body {
-    background-color: black;
+    background-color: bisque;
     font-family: Bai Jamjuree;
 }
 
 footer {
-    background-color: rgb(125, 125, 236);
+    background-color: black;
+    color: white;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
 }
